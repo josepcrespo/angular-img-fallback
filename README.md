@@ -1,13 +1,13 @@
 Angular Image Fallback
 ======================
 
-Angular Directive to manage the fallback of the `src` attribute of the `img` HTML element. Has `fallback-src` to handle erros in image loading and `loading-src` for images loading placeholders.
+Angular Directive to manage the fallback of the `src` attribute of the `img` HTML element. It has `fallback-src` to handle erros in image loading and `loading-src` for images loading placeholders.
 
 ## Bower Download
-`bower install angular-img-fallback-directive`
+`bower install angular-img-fallback-directive --save`
   
 ## Installation
-1. Download and import the plugin script.<br />
+1. If you install the AngularJS module through Bower as it was described above, you can skip this step. Else, if you will go to use this AngularJS module the old school way, you should add a similar line (depending on your paths) to you HTML to import the script.<br />
 `<script src="lib/angular-img-fallback/angular-img-fallback.js"></script>`
 2. Add `imgFallback` to your angular app module dependencies list.<br />
 `angular.module('myAngularApp', ['imgFallback']);`
