@@ -11,7 +11,7 @@ Angular Directive to manage the fallback of the `src` attribute of the `img` HTM
 `<script src="lib/angular-img-fallback/angular-img-fallback.js"></script>`
 2. Add `imgFallback` to your angular app module dependencies list.<br />
 `angular.module('myAngularApp', ['imgFallback']);`
-3. Add the `fallback-src` attribute to yout img<br />
+3. Add the `fallback-src` attribute to your img<br />
 `<img ng-src="path/to/img.jpg" fallback-src />`
 
 
