@@ -1,5 +1,5 @@
 /**
- * Angular Image Fallback Directive
+ * AngularJS Image Fallback Directive
  * 
  * @copyright   2014 Daniel Cohen <dcohenb@gmail.com>
  * @author      Daniel Cohen <dcohenb@gmail.com>
