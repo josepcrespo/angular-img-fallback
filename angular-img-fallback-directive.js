@@ -1,12 +1,12 @@
 /**
- * AngularJS Image Fallback Directive
+ * AngularJS Module - Image Fallback
  * 
  * @copyright   2014 Daniel Cohen <dcohenb@gmail.com>
  * @author      Daniel Cohen <dcohenb@gmail.com>
  * @author      Josep Crespo Santacreu <josep.crespo.santacreu@gmail.com>
  * @licence     MIT
  * @version     0.0.3
- * @link        https://github.com/josepcrespo/angular-img-fallback
+ * @link        https://github.com/josepcrespo/bower-angular-img-fallback
  */
 angular.module('imgFallback', [])
 .directive('fallbackSrc', function() {

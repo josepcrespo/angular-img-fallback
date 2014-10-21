@@ -1,7 +1,7 @@
 Angular Image Fallback
 ======================
 
-Angular Directive to manage the fallback of the `src` attribute of the `img` HTML element. It has `fallback-src` to handle erros in image loading and `loading-src` for images loading placeholders.
+Angular Module (with two directives) to manage the fallback of the `src` attribute of the `img` HTML element. It has `fallback-src` to handle erros in image loading and `loading-src` for images loading placeholders.
 
 ## Bower Download
 `bower install angular-img-fallback-directive --save`
