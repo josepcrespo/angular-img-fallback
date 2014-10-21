@@ -5,7 +5,6 @@
  * @author      Daniel Cohen <dcohenb@gmail.com>
  * @author      Josep Crespo Santacreu <josep.crespo.santacreu@gmail.com>
  * @licence     MIT
- * @version     0.0.3
  * @link        https://github.com/josepcrespo/bower-angular-img-fallback
  */
 angular.module('imgFallback', [])

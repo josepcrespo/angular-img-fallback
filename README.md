@@ -1,6 +1,8 @@
 AngularJS Image Fallback Module
 ===============================
 
+This is a fork of [the original](https://github.com/dcohenb/angular-img-fallback) by [Daniel Cohen](https://github.com/dcohenb). It has been forked to be made seamless compatible with `bower install` command and the `AngularJS Yeoman Generator` (so, after install through `Bower`, if you are running the `grunt serve` command, it will automatically include the script in index.html) (and because it will be used in production in a project of my company, so I need full control of the source).
+
 Angular Module (with two directives) to manage the fallback of the `src` attribute of the `img` HTML element. It has `fallback-src` to handle erros in image loading and `loading-src` for images loading placeholders.
 
 ## Bower Download
