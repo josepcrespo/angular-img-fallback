@@ -7,7 +7,7 @@ Angular Directive to manage the fallback of the `src` attribute of the `img` HTM
 `bower install angular-img-fallback-directive --save`
   
 ## Installation
-1. If you install the AngularJS module through Bower as it was described above, you can skip this step. Else, if you will go to use this AngularJS module the old school way, you should add a similar line (depending on your paths) to you HTML to import the script.<br />
+1. Add a similar line (depending on your paths) to you HTML to import the script into your page.<br />
 `<script src="lib/angular-img-fallback/angular-img-fallback.js"></script>`
 2. Add `imgFallback` to your angular app module dependencies list.<br />
 `angular.module('myAngularApp', ['imgFallback']);`
